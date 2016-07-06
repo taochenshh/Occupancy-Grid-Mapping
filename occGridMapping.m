@@ -1,7 +1,3 @@
-% Robotics: Estimation and Learning 
-% WEEK 3
-% 
-% Complete this function following the instruction. 
 function myMap = occGridMapping(ranges, scanAngles, pose, param)
 
 
