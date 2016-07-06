@@ -1,10 +1,3 @@
-% Robotics: Estimation and Learning 
-% WEEK 3
-% 
-% This script is to help run your algorithm and visualize the result from it.
-% 
-% Please see example_lidar first to understand the lidar measurements, 
-% and see example_bresenham to understand how to use it.
 clear all;
 close all;
 
